@@ -1,2 +1,2 @@
-# SQL---Accessing-Database-Using-Python_Creating-tables-Inserting-and-Querying-Data
+# SQL---Accessing-Database-Using-Python
 Creating tables, inserting and querying Data
